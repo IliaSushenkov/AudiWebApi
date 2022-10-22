@@ -1,0 +1,14 @@
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\bin\Debug\net6.0\Audi.DAL.deps.json
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\bin\Debug\net6.0\Audi.DAL.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\bin\Debug\net6.0\Audi.DAL.pdb
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.AssemblyInfo.cs
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\refint\Audi.DAL.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.pdb
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\ref\Audi.DAL.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\bin\Debug\net6.0\Audi.DAL.runtimeconfig.json
+C:\Users\ilias\Desktop\AudiWebAPI\Audi.DAL\obj\Debug\net6.0\Audi.DAL.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\bin\Debug\net6.0\Audi.Shared.deps.json
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\bin\Debug\net6.0\Audi.Shared.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\bin\Debug\net6.0\Audi.Shared.pdb
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.AssemblyInfo.cs
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\refint\Audi.Shared.dll
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\Audi.Shared.pdb
+C:\Users\ilias\Desktop\AudiWebAPI\Shared\obj\Debug\net6.0\ref\Audi.Shared.dll
